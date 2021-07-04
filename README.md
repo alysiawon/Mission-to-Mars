@@ -6,6 +6,8 @@ The purpose of this project is to build a web application to gather information 
 
 ## Results
 
+<img align="right" src="Analysis/sample.png" width="250">
+
 The data preparation utilizes the following steps to create the web application:
 
 **1. Scrape the Data**
@@ -21,8 +23,6 @@ Python and HTML was used to create a <a href="scraping.py">Scraping Python File<
 <a href="templates/index.html">HTML</a> and <a href="static/styles.css">CSS</a> was used to update our web application to make it mobile-responsive and to ensure it was easy to read and user-friendly.
 
 ### Web Application
-
-<img align="right" src="Analysis/sample.png" width="250">
 
 The web application will display 4 items:
 
