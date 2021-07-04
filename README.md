@@ -22,6 +22,8 @@ Python and HTML was used to create a <a href="scraping.py">Scraping Python File<
 
 ### Web Application
 
+<img align="right" src="Analysis/sample.png" width="250">
+
 The web application will display 4 items:
 
 1. A Header and a Button to Scrape New Data
@@ -32,4 +34,3 @@ The web application will display 4 items:
 
 Here is an example of the web appliaction: 
 
-<img align="right" src="Analysis/sample.png" width="250">
