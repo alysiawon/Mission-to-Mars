@@ -1,0 +1,26 @@
+.headerimg {
+    background-image: url('header_img.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+#headerpadding {
+  padding: 25% 0;
+}
+
+.btn {
+    border: 2px solid #8E6A5A;
+    border-radius: 5px;
+    background-color: #8E6A5A;
+    color: whitesmoke;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+.imagecenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
