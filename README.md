@@ -32,4 +32,4 @@ The web application will display 4 items:
 
 Here is an example of the web appliaction: 
 
-<img src="Analysis/sample.png" width="250">
+<img align="right" src="Analysis/sample.png" width="250">
